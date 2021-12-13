@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cimplex/minecraft-portal.git"
+  },
+  "author": "reuben deleon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cimplex/minecraft-portal/issues"
+  },
+  "homepage": "https://github.com/Cimplex/minecraft-portal#readme",
+  "dependencies": {
+    "node-ssh": "^12.0.2",
+    "ssh2": "^1.5.0"
+  }
+}
